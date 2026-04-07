@@ -268,7 +268,7 @@ def predict_sample(model, feature_cols, encoders, input_dict, target_binary):
 
 # ─── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## 🧠 NB Predictor")
+    st.markdown("## NB Predictor")
     st.markdown("---")
     st.markdown("### How it works")
     st.markdown(
