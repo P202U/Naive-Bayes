@@ -301,7 +301,7 @@ Powered by sklearn · Streamlit
 
 
 # ─── Main ─────────────────────────────────────────────────────────────────────
-st.markdown("# 🧠 Naive Bayes Predictor")
+st.markdown("# Naive Bayes Predictor")
 st.markdown(
     "*Upload a dataset, pick your columns, and get instant AI-powered predictions.*"
 )
